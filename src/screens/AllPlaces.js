@@ -1,6 +1,6 @@
 import { StyleSheet, View } from "react-native";
 import { Place } from "../models/place";
-import PlacesList from "../components/PlacesList";
+import PlacesList from "../components/Places/PlacesList";
 
 const data = [
   new Place(

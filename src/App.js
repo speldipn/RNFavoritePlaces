@@ -2,7 +2,7 @@ import AddPlace from "./screens/AddPlace";
 import AllPlaces from "./screens/AllPlaces";
 import Map from "./screens/Map";
 import PlaceDetail from "./screens/PlaceDetail";
-import IconButton from "./components/IconButton";
+import IconButton from "./components/UI/IconButton";
 import { StyleSheet } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
