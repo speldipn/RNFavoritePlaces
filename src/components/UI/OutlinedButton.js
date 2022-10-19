@@ -21,6 +21,7 @@ function OutlinedButton({ onPress, icon, title }) {
 
 const styles = StyleSheet.create({
   button: {
+    paddingHorizontal: 12,
     paddingVertical: 6,
     margin: 4,
     flexDirection: "row",
